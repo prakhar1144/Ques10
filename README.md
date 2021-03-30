@@ -1,4 +1,5 @@
 # Ques10
+## Before : Celery ,Celery-beat, django-celery-beat, django-celery-results, django-debugging-toolbar, rabbit-mq, kwargs, args, static method, bitbucket, aws cloud9 ide, git branching commands.
 Date | Learned | Task Completed
 -----|---------|----------------
 28 March |  Holi   | Holi
