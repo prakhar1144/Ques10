@@ -20,3 +20,4 @@ Date | Learned | Task Completed
 28 june - 1 july | Holiday | Holiday
 2-3 july | | Rewards pop-up etc, plan cancelled
 4-5 july | allauth signals for email-change & email-confirm, allauth email change method, | Immediate score to user on profile complete,email-phone verified using signals
+July | | Transaction for Views, Instant Score + level update, Lot of Scripts for Tag management 
